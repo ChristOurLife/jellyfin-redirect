@@ -1,5 +1,5 @@
 # jellyfin redirect
-the world's shittiest way to run a server without sacrificing your soul to the whois gods
+the world's shittiest way to run a server without sacrificing your soul to the whois gods <br>
 want an explination? here take this vibecoded chatgpt summary because it did all the work for me (kill me, i know nothing about bash scripts and can't be bothered to learn)
 # Jellyfin Cloudflare Tunnel Auto-Redirect System
 
